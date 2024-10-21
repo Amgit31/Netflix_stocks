@@ -1,4 +1,4 @@
-# Netflix_stocks
+# Netflix_stocks_analysis
 
 ## Data set
 
