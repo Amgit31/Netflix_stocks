@@ -1,4 +1,4 @@
-# Netflix_stocks_analysis Using python
+# Netflix_stocks_analysis Using Python
 
 ## Data set
 
